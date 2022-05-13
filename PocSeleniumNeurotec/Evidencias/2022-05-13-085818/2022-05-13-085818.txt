@@ -1,0 +1,13 @@
+[2022-05-13-085818][INFO] - Inicio da execuçao.
+[2022-05-13-085818][INFO] - Foi tirado um print da home.
+[2022-05-13-085818][INFO] - Foi tirado um print da home.
+[2022-05-13-085818][INFO] - Foi tirado um print da home.
+[2022-05-13-085818][INFO] - Foi tirado um print da home.
+[2022-05-13-085818][INFO] - Foi tirado um print da home.
+[2022-05-13-085818][INFO] - Foi tirado um print da home.
+[2022-05-13-085818][INFO] - Foi tirado um print da home.
+[2022-05-13-085818][INFO] - Foi tirado um print da home.
+[2022-05-13-085818][INFO] - Foi tirado um print da home.
+[2022-05-13-085818][INFO] - Foi tirado um print da home.
+[2022-05-13-085818][INFO] - Foi tirado um print da home.
+[2022-05-13-085818][INFO] - Fim da execução, teste executado com sucesso.

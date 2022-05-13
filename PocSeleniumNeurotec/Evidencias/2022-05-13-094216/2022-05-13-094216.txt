@@ -1,0 +1,66 @@
+[2022-05-13-094216][INFO] - Inicio da execuçao.
+[2022-05-13-094216][INFO] - Home do sitehttps://www.kabum.com.br/ acessada com sucesso..
+[2022-05-13-094216][INFO] - Foi tirado um print da tela.
+[2022-05-13-094216][INFO] - Coockies aceitado com sucesso..
+[2022-05-13-094216][INFO] - Procurando input de busca..
+[2022-05-13-094216][INFO] - Input de busca encontrado..
+[2022-05-13-094216][INFO] - Item inserido no campo de busca..
+[2022-05-13-094216][INFO] - Foi tirado um print da tela.
+[2022-05-13-094216][INFO] - Busca realizada..
+[2022-05-13-094216][INFO] - Centralizando item na tela.
+[2022-05-13-094216][INFO] - Foi tirado um print da tela.
+[2022-05-13-094216][INFO] - Buscando item..
+[2022-05-13-094216][INFO] - Elemento encontrado.
+[2022-05-13-094216][INFO] - ------Item selecionado-------
+Sony Playstation 4 500gb Standard Cor Preto Onyx
+R$ 3.763,62
+À vista no PIX
+------Item selecionado-------.
+[2022-05-13-094216][INFO] - Elemento clicado.
+[2022-05-13-094216][INFO] - Procurando input do cep..
+[2022-05-13-094216][INFO] - Foi tirado um print da tela.
+[2022-05-13-094216][INFO] - Centralizando item na tela..
+[2022-05-13-094216][INFO] - Foi tirado um print da tela.
+[2022-05-13-094216][INFO] - Buscando elemento na tela..
+[2022-05-13-094216][INFO] - Elemento encontrado com sucesso..
+[2022-05-13-094216][INFO] - Apagando espaços em branco no campo do CEP..
+[2022-05-13-094216][INFO] - CEP inserido..
+[2022-05-13-094216][INFO] - Foi tirado um print da tela.
+[2022-05-13-094216][INFO] - Submit realizado no CEP com sucesso..
+[2022-05-13-094216][INFO] - Aguardando lista de datas de frete..
+[2022-05-13-094216][INFO] - Datas encontradas com sucesso..
+[2022-05-13-094216][INFO] - Imprimindo datas: 
+ ------Datas-------
+Expressa
+R$ 80,68
+até 11 dias úteis
+Padrão
+R$ 64,16
+até 15 dias úteis
+-----------------.
+[2022-05-13-094216][INFO] - Foi tirado um print da tela.
+[2022-05-13-094216][INFO] - Prurando btn para fechar tela com datas..
+[2022-05-13-094216][INFO] - Btn para fechar POP up encontrado.
+[2022-05-13-094216][INFO] - Btn para fechar POP up clicado.
+[2022-05-13-094216][INFO] - Foi tirado um print da tela.
+[2022-05-13-094216][INFO] - POP up fechado.
+[2022-05-13-094216][INFO] - Foi tirado um print da tela.
+[2022-05-13-094216][INFO] - Procurando botão comprar.
+[2022-05-13-094216][INFO] - Botão Comprar clicado com sucesso.
+[2022-05-13-094216][INFO] - Foi tirado um print da tela.
+[2022-05-13-094216][INFO] - passou pela garantia.
+[2022-05-13-094216][INFO] - Procurando botao 'ir para o carrinho'..
+[2022-05-13-094216][INFO] - Botao clicado com sucesso.'..
+[2022-05-13-094216][INFO] - Procurando itens.
+[2022-05-13-094216][INFO] - Listando itens do carrinho.
+[2022-05-13-094216][INFO] - ------itens do carrinho------
+Sony
+Sony Playstation 4 500gb Standard Cor Preto Onyx
+Parcelado no cartão, à vista ou PIX: R$ 3.763,62
+Quant:
+REMOVER
+Preço à vista no PIX:
+R$ 3.763,62
+------fim itens do carrinho------.
+[2022-05-13-094216][INFO] - Foi tirado um print da tela.
+[2022-05-13-094216][INFO] - Fim da execução, teste executado com sucesso.
