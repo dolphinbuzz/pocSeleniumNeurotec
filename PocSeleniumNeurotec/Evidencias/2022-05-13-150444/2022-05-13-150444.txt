@@ -1,0 +1,18 @@
+[2022-05-13-150444][INFO] - Inicio da execuçao
+[2022-05-13-150444][INFO] - Home do site https://www.kabum.com.br/ acessada com sucesso.
+[2022-05-13-150444][INFO] - Foi tirado um print da tela.
+[2022-05-13-150444][INFO] - Cookies aceitado com sucesso.
+[2022-05-13-150444][INFO] - Procurando input de busca.
+[2022-05-13-150444][INFO] - Input de busca encontrado.
+[2022-05-13-150444][INFO] - Item inserido no campo de busca.
+[2022-05-13-150444][INFO] - Foi tirado um print da tela.
+[2022-05-13-150444][INFO] - Busca realizada.
+[2022-05-13-150444][INFO] - Centralizando item na tela
+[2022-05-13-150444][INFO] - Foi tirado um print da tela.
+[2022-05-13-150444][INFO] - Buscando item.
+[2022-05-13-150444][INFO] - Elemento encontrado
+[2022-05-13-150444][INFO] - ------Item selecionado-------
+Sony Playstation 4 500gb Standard Cor Preto Onyx
+R$ 3.763,62
+À vista no PIX
+------Item selecionado-------
